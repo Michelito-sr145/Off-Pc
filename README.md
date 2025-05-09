@@ -1,4 +1,4 @@
-# Off-Pc
+# Off-Pc 🕒🖥️
 
 **Off-Pc** es una aplicación de escritorio para Windows que permite programar el apagado automático de tu computadora mediante un cronómetro configurable. Ideal para momentos en los que deseas dejar la PC encendida solo por un tiempo determinado.
 
@@ -33,3 +33,8 @@ Una carpeta con todos los archivos necesarios para ejecutar la app (`Off-Pc.exe`
 ### 🗃️ Versión Un Solo Archivo
 
 Un único archivo ejecutable `Off-Pc.exe`. Puedes ejecutarlo directamente, pero puede tardar unos segundos en abrir por primera vez.
+
+## 💡 Michel.sr145
+Esta aplicación nació de una necesidad personal: muchas veces dejaba la computadora encendida por tareas que no requerían supervisión (como descargas largas, actualizaciones de sistema o videojuegos, reproducción de música o peliculas), y quería una forma simple de que se apague automáticamente después de cierto tiempo.
+
+Busqué una solución que fuera liviana, sin instalaciones complicadas, y que además se pudiera personalizar visualmente. Así surgió **Off-Pc**, una herramienta práctica y directa para cualquiera que quiera ahorrar energía y cuidar su equipo sin complicaciones.
