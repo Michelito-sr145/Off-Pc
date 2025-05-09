@@ -35,8 +35,14 @@ Una carpeta con todos los archivos necesarios para ejecutar la app (`Off-Pc.exe`
 Un único archivo ejecutable `Off-Pc.exe`. Puedes ejecutarlo directamente, pero puede tardar unos segundos en abrir por primera vez.
 
 ## 💡 Michel.sr145
-Esta aplicación nació de una necesidad personal: muchas veces dejaba la computadora encendida por tareas que no requerían supervisión (como descargas largas, actualizaciones de aplicaciones o videojuegos, reproducción de música o peliculas).
 
-Por ejemplo lo que me sucedía, Cuando estaba viendo una película a altas horas de la noche, y luego de un tiempo me quedaba dormido, **Off-Pc** puede apagar tu PC automáticamente tras el tiempo que definas. Así evitás dejar la computadora encendida toda la noche, ahorrás energía y alargás la vida útil del equipo.
+Esta aplicación nació de una necesidad personal: muchas veces dejaba la computadora encendida por tareas que no requerían supervisión, como descargas largas, actualizaciones o la reproducción de música o películas.
 
-Busqué una solución que fuera liviana, sin instalaciones complicadas, y que además se pudiera personalizar visualmente. Así surgió **Off-Pc**, una herramienta práctica y directa para cualquiera que quiera ahorrar energía y cuidar su equipo sin complicaciones.
+### 🛏️ Ejemplo real:
+
+> Cuando estaba viendo una película a altas horas de la noche, y luego de un tiempo me quedaba dormido.
+> Con **Off-Pc**, puedo definir un tiempo y olvidarme de si me duermo, Ya que alfinal la PC se apaga sola.
+
+Así evitando dejar la computadora encendida sin necesidad, ahorrando energía y alargando la vida útil del equipo.
+
+Busqué una solución liviana, sin instalaciones complicadas, y que además se pudiera personalizar visualmente. Así surgió **Off-Pc**, una herramienta práctica y directa para cualquiera que quiera cuidar su equipo sin complicaciones.
